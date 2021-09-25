@@ -1,0 +1,24 @@
+﻿  KernelFiltering.cpp
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\Kernel2d.h(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\Kernel2d.h(33): message : во время компиляции функции-члена класс шаблон "Kernel2d<int>::Kernel2d(uint32_t,uint32_t,T **)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\KernelFiltering.cpp(40): message : выполняется компиляция ссылки на экземпляр шаблон функции "Kernel2d<int>::Kernel2d(uint32_t,uint32_t,T **)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\KernelFiltering.cpp(40): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Kernel2d<int>"
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\Kernel2d.h(41,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\Kernel2d.h(98,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\Kernel2d.h(97): message : во время компиляции функции-члена класс шаблон "void Kernel2d<int>::destroy_kernel_matrix(void)"
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\Kernel2d.h(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\KernelFiltering.cpp(42): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<<T>(std::ostream &,const Kernel2d<T> &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\Kernel2d.h(119,21): warning C4018: <: несоответствие типов со знаком и без знака
+  KernelFiltering.vcxproj -> C:\Users\Emil\Desktop\KernelFiltering\Debug\KernelFiltering.exe

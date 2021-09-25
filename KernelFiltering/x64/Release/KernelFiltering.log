@@ -1,0 +1,2 @@
+﻿  KernelFiltering.cpp
+C:\Users\Emil\Desktop\KernelFiltering\KernelFiltering\KernelFiltering.cpp(5,10): fatal error C1083: Не удается открыть файл включение: opencv2/opencv.hpp: No such file or directory,
